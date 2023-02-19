@@ -5,13 +5,13 @@ permalink: LINKS/
 # LINKS
 
 ## Week 1
-### 1. [Bash Cheat Sheet](https://www.educative.io/blog/bash-shell-command-cheat-sheet)<br>
+### 1. [Bash Cheat Sheet](https://www.educative.io/blog/bash-shell-command-cheat-sheet)
 In this site, you will get a look at bash shell, a commonly used shell. It contains a lot of popular commands that many programmers are likely to use them.
 
-### 2. [Replit](https://replit.com/~)<br>
+### 2. [Replit](https://replit.com/~)
 A useful online code editor. Personally, for this OS lecture, I use it to test my bash commands before using them locally.
 
-### 3. [Regex For Beginners](https://www.youtube.com/watch?v=bgBWp9EIlMM&t=713s)<br>
+### 3. [Regex For Beginners](https://www.youtube.com/watch?v=bgBWp9EIlMM&t=713s)
 An introduction to regex (regular expressions) for beginners. The youtuber himself explains the concepts of regex clearly and can be well understood for beginners within 15 minutes.
 
 ### 4. [10 Linux Terminal Commands for Beginners](https://www.youtube.com/watch?v=CpTfQ-q6MPU&t=107s)
