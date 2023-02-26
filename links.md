@@ -19,7 +19,7 @@ From this video, you can learn 10 mostly used commands on linux terminal. For be
 
 ## Week 2
 ### 1. [Belajar Memakai GnuPG/GPG](https://medium.com/kode-dan-kodean/belajar-memakai-gnu-privacy-guard-gnupg-gpg-3944e19dba91)
-GnuPG (abbreviated as GPG) is a software application used for encrypting, decrypting, and doing digital signature for safe data exchange. On this site, you can learn GPG thoroughly from its background, definition, why you need GPG, until some important GPG commands. 
+GnuPG or GNU Privacy Guard (abbreviated as GPG) is a software application used for encrypting, decrypting, and doing digital signature for safe data exchange. On this site, you can learn GPG thoroughly from its background, definition, why you need GPG, until some important GPG commands. 
 
 ### 2. [Cyber Security in 7 Mins](https://www.youtube.com/watch?v=inWWhr5tnEA&t=1s)
 In this video, you can actually get the gist of what is cyber security. It basically explains about cyber security by simple definition, how a user can get cyber attacked, what are some of the many methods used for stealing data, how can you prevent cyber attacks, etc.
