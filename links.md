@@ -28,7 +28,7 @@ In this video, you can actually get the gist of what is cyber security. It basic
 Basically, this site teaches you on how to compile C program using GCC in bash linux. What intrigues me about this site is that it suggested me that I can also code C program using an alternative editor of vim called nano (a much lesser pain in the buttocks editor than vim), which I didn't know before :D
 
 ### 4. [ChatGPT](https://chatgptonline.net/)
-A widely popular chat bot in today's world made by non other than OpenAI. You can utilize this bot to give you answers almost about anything, start from your homeworks, programming assignments, how to success in your life, how to get a real life waifu (what the duck?), and many more.
+A widely popular chat bot in today's world made by non other than OpenAI. You can utilize this bot to give you answers almost about anything, start from your homeworks, programming assignments, how to succeed in your life, how to get a real life waifu (what the duck?), and many more.
 
 ## Week 3
 
