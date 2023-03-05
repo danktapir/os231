@@ -30,7 +30,18 @@ Basically, this site teaches you on how to compile C program using GCC in bash l
 ### 4. [ChatGPT](https://chatgptonline.net/)
 A widely popular chat bot in today's world made by non other than OpenAI. You can utilize this bot to give you answers almost about anything, start from your homeworks, programming assignments, how to succeed in your life, how to get a real life waifu (what the duck?), and many more.
 
+### 5. [How to Compress A Directory Using XZ and Tar](https://www.cyberciti.biz/faq/compress-the-whole-directory-using-xz-and-tar/)
+This site simply tells you how to compress a directory using XZ and tarball in linux. It shows you a lot of commands that can be used relating to compression. 
+
+### 6. [Working with Tar and Zip Files in Linux](https://www.hostdime.com/kb/hd/command-line/how-to-tar-untar-and-zip-files)
+Not too many being explained in this site. It gives you an idea on how to work with tarball and zip files in linux. Also, it shows you some basic commands to work with those type of files.
+
 ## Week 3
+### 1. [File System dan Contoh-contohnya](https://windowsku.com/pengertian-file-system-dan-contoh-contohnya/)
+This site gives you a brief explanation about file system. It explains about what is file system and its examples.
+
+### 2. [What Is a File System?](https://www.javatpoint.com/file-system)
+Rather than the first site, this one gives you a lot more information about file system. In addition to what being explained from the first site, this one also explains the architecture of file systems and types of file systems.
 
 ## Week 4
 
