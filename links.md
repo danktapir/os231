@@ -45,3 +45,6 @@ This video explains the concept of memory management in OS. It basically gives y
 
 ### 14. [Logical and Physical Addresses](https://www.geeksforgeeks.org/logical-and-physical-address-in-operating-system/)
 Simply, an article that explains the differences between logical and physical addresses.
+
+### 15. [Virtual Memory on Linux](https://www.makeuseof.com/virtual-memory-on-linux/)
+Virtual memory is a way of representing your main memory that is abstracted from the physical memory. It makes use of both your RAM and storage space.
