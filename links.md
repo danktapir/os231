@@ -48,3 +48,6 @@ Simply, an article that explains the differences between logical and physical ad
 
 ### 15. [Virtual Memory on Linux](https://www.makeuseof.com/virtual-memory-on-linux/)
 Virtual memory is a way of representing your main memory that is abstracted from the physical memory. It makes use of both your RAM and storage space.
+
+### 16. [Operating System: Threads and Concurrency](https://medium.com/@akhandmishra/operating-system-threads-and-concurrency-aec2036b90f8)
+A thread also called lightweight process, is basic CPU utilization. It compromises a thread ID, a program counter, a register set, and a stack. A thread is an entity within a process that can be scheduled for execution.
