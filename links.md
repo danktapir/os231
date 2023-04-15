@@ -51,3 +51,7 @@ Virtual memory is a way of representing your main memory that is abstracted from
 
 ### 16. [Operating System: Threads and Concurrency](https://medium.com/@akhandmishra/operating-system-threads-and-concurrency-aec2036b90f8)
 A thread also called lightweight process, is basic CPU utilization. It compromises a thread ID, a program counter, a register set, and a stack. A thread is an entity within a process that can be scheduled for execution.
+
+### 17. [Multithreading vs Multiprocessing](https://www.indeed.com/career-advice/career-development/multithreading-vs-multiprocessing#:~:text=Multiprocessing%20uses%20two%20or%20more,computing%20power%20by%20adding%20CPUs.)
+You may benefit from learning about the fundamental differences between multithreading and multiprocessing programming techniques. This article explores what multithreading and multiprocessing are, their key differences and provide tips to help you determine when you should use each method.
+

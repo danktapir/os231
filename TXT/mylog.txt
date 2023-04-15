@@ -60,3 +60,12 @@ ZCZC W06 3 L13 Assignment #03
 ZCZC W06 20 L14 Assignment #04
 ZCZC W06 30 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W06 5 L05 Pop quiz
+
+ZCZC W07 30 L05 Pop quizzes
+ZCZC W07 200 L02 Attend OS lectures in class room
+ZCZC W07 10 L10 Assignment #00
+ZCZC W07 3 L11 Assignment #01
+ZCZC W07 3 L12 Assignment #02
+ZCZC W07 60 L13 Assignment #03
+ZCZC W07 4 L05 Quiz
+ZCZC W07 30 L04 GitHub Pages related
