@@ -55,3 +55,5 @@ A thread also called lightweight process, is basic CPU utilization. It compromis
 ### 17. [Multithreading vs Multiprocessing](https://www.indeed.com/career-advice/career-development/multithreading-vs-multiprocessing#:~:text=Multiprocessing%20uses%20two%20or%20more,computing%20power%20by%20adding%20CPUs.)
 You may benefit from learning about the fundamental differences between multithreading and multiprocessing programming techniques. This article explores what multithreading and multiprocessing are, their key differences and provide tips to help you determine when you should use each method.
 
+### 18. [How to build Linux From Scratch 11.3 in VirtualBox](https://www.youtube.com/playlist?list=PLyc5xVO2uDsB4gJ2dPySvs2eK_roFwKeb)
+This series of videos demonstrate how to build and install Linux From Scratch (LFS) version 11.3 inside a virtual environment using VirtualBox.
